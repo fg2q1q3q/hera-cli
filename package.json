@@ -20,7 +20,7 @@
     "{src/**/*.js,bin/herapack,*.json}": ["prettier-standard", "git add"]
   },
   "keywords": ["wxapp", "hera"],
-  "author": "Junjie Ding",
+  "author": "Xiaolong Zhang",
   "license": "MIT",
   "dependencies": {
     "boxen": "^1.3.0",
